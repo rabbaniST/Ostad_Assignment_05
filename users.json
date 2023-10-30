@@ -1,0 +1,30 @@
+{
+    "0": {
+        "id": "653ec35e5cc89",
+        "username": "admin",
+        "email": "admin@gmail.com",
+        "password": "1234",
+        "role": "admin"
+    },
+    "2": {
+        "id": "653ec3a8732c3",
+        "username": "manager",
+        "email": "manager@gmail.com",
+        "password": "1234",
+        "role": "manager"
+    },
+    "3": {
+        "id": "653ec4516e701",
+        "username": "user",
+        "email": "user@gmail.com",
+        "password": "1234",
+        "role": "user"
+    },
+    "4": {
+        "id": "653ec4677638c",
+        "username": "rahim",
+        "email": "rahim@gmail.com",
+        "password": "1234",
+        "role": "user"
+    }
+}
